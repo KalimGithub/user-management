@@ -7,8 +7,8 @@ import UsersListPage from "./UsersListPage";
 const baseUrl = import.meta.env.VITE_BASE_URL;
 
 function LoginPage() {
-  const [email, setEmail] = useState("eve.holt@reqres.in");
-  const [password, setPassword] = useState("cityslicka");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
