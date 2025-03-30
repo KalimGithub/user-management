@@ -2,7 +2,7 @@
 
 A React-based web application for managing users with searching, and pagination capabilities along with user authentication by email and password.
 
-![User Management System](https://user-images.githubusercontent.com/104444/144876111-8)
+![User Management System](https://raw.githubusercontent.com/KalimGithub/user-management/refs/heads/main/src/assets/images/homepage.png)
 
 ## Features
 
@@ -68,9 +68,10 @@ npm run dev
 - If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the profile.
 
 - Thank you for visiting user management website! I hope you find it informative and visually appealing.
-
-![Login Page](https:)
-
-![Search User]()
-
-![Edit User]()
+## Screenshots
+### Login Page:
+![Login Page](https://raw.githubusercontent.com/KalimGithub/user-management/refs/heads/main/src/assets/images/login.png)
+### Search User:
+![Search User](https://raw.githubusercontent.com/KalimGithub/user-management/refs/heads/main/src/assets/images/search.png)
+### Edit User:
+![Edit User](https://raw.githubusercontent.com/KalimGithub/user-management/refs/heads/main/src/assets/images/edituser.png)
