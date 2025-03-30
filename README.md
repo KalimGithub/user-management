@@ -55,6 +55,11 @@ npm run dev
 
 4. Visit local host to visit the application at http://localhost:5173
 
+5. Login Credentials:
+
+- Email: eve.holt@reqres.in
+
+- Password: cityslicka
 ## Future Improvements
 
 - Improving user data validation
