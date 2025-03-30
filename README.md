@@ -1,6 +1,8 @@
 # User Management System
 
 A React-based web application for managing users with searching, and pagination capabilities along with user authentication by email and password.
+### Live Preview:
+[User Management System](https://user-management-chi-bay.vercel.app/)
 
 ![User Management System](https://raw.githubusercontent.com/KalimGithub/user-management/refs/heads/main/src/assets/images/homepage.png)
 
